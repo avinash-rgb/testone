@@ -1,4 +1,4 @@
 {
-    "code": "water",
+    "code": "waterr",
     "args": ""
 }
