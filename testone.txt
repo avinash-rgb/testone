@@ -1,4 +1,4 @@
 {
-    "code": "notepa",
+    "code": "notepad",
     "args": ""
 }
