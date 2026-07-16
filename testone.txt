@@ -1,5 +1,5 @@
 {
-    "id": "A1B2",
-    "code": "notepad",
+    "id": "A2B2",
+    "code": "pokemon",
     "args": ""
 }
