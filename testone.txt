@@ -1,5 +1,5 @@
 {
-    "id": "A1B1",
+    "id": "A1B2",
     "code": "notepad",
     "args": ""
 }
