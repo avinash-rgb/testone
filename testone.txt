@@ -1,4 +1,4 @@
-qaaa{
+{
     "id": "A2B2",
     "code": "ben10",
     "args": ""
